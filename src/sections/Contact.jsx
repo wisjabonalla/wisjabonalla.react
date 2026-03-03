@@ -215,8 +215,11 @@ export const Contact = () => {
                             <span className="w-3 h-3 bg-red-400 rounded-full animate-pulse"/>
                             <span className="font-medium">Currently Unavailable</span>
                         </div>
-                        <p className="text-muted-foreground text-sm">
+                        {/* <p className="text-muted-foreground text-sm">
                             I'm currently open to new opportunities and exciting projects. Whether you need a full-time or a freelance employee, let's talk!
+                        </p> */}
+                        <p className="text-muted-foreground text-sm">
+                            I’m currently unavailable for new opportunities and projects. I’m not taking on full-time or freelance work at this time. Thank you for your understanding.
                         </p>
                     </div>
                 </div>

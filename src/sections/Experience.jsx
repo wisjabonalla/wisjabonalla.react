@@ -18,9 +18,9 @@ const experiences = [
     },
     {
         period: "Sep 2025 - Present",
-        role: "Social Media Manager",
+        role: "Social Media Coordinator",
         company: "Freelance Virtual Assistant",
-        description: "Social Media Coordinator managing multiple accounts, organized and scheduled content, ensured brand-aligned quality, coordinated client approvals, and tracked performance using Excel and Google Sheets.",
+        description: "Managing multiple accounts, organized and scheduled content, ensured brand-aligned quality, coordinated client approvals, and tracked performance using Excel and Google Sheets.",
         technologies: [ "Social Media Tools", "Content Scheduling", "Google Sheets", "Excel"],
         current: true,
     },

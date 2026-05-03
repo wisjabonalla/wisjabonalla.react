@@ -17,7 +17,7 @@ const experiences = [
         current: true,
     },
     {
-        period: "Sep 2025 - Present",
+        period: "Nov 2025 - Present",
         role: "Social Media Coordinator",
         company: "Freelance Virtual Assistant",
         description: "Managing multiple accounts, organized and scheduled content, ensured brand-aligned quality, coordinated client approvals, and tracked performance using Excel and Google Sheets.",

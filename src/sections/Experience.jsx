@@ -9,7 +9,7 @@ const experiences = [
     },
     {
         period: "Dec 2025 - Present",
-        role: "Graphic Designer / Thumbnail Designer",
+        role: "Designer Manager",
         company: "MAPTURE MEDIA • Yellow Oak Media Ltd",
         description: "Create high-CTR YouTube thumbnails for multiple clients and channels at speed and scale, while owning production quality, mentoring junior designers, driving design improvements with the CEO, aligning with channel managers on strategy, supporting hiring and training, and developing design SOPs.",
         technologies: ["Photoshop", "AI Tools", "YouTube", "Brand & Trend-Driven Design", "Google Sheets", "Google Docs"],
